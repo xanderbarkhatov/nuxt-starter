@@ -1,0 +1,7 @@
+{
+  "extends": ["@antfu", "prettier"],
+  "rules": {
+    "@typescript-eslint/consistent-type-definitions": ["warn", "type"],
+    "antfu/if-newline": "off"
+  }
+}
